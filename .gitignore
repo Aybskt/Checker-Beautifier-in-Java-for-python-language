@@ -1,21 +1,30 @@
-# Fichiers compilés
-*.class
-*.jar
-!cli.jar
-!gui.jar
-*.war
-*.ear
+# Fichiers générés par le système d'exploitation
+.DS_Store
+Thumbs.db
 
-# Dossiers de sortie
-bin/
-target/
-build/
+# Fichiers de logs
+*.log
 
-# Fichiers de l'IDE Eclipse
+# Fichiers de configuration de l'IDE (Eclipse)
 .project
 .classpath
 .settings/
 
-# Fichiers système
-.DS_Store
-Thumbs.db
+# Dossiers de sortie compilés (très importants à ignorer)
+bin/
+build/
+target/
+
+# Fichiers JAR
+# Ignore tous les fichiers .jar par défaut...
+*.jar
+# ...sauf les fichiers JAR exécutables que vous voulez partager.
+!cli.jar
+!gui.jar
+
+# Fichiers d'archive
+*.war
+*.ear
+
+# Fichiers de préférences utilisateur
+preferences.ser
