@@ -1,0 +1,20 @@
+# Fichiers compilés
+*.class
+*.jar
+*.war
+*.ear
+
+# Dossiers de sortie
+bin/
+target/
+build/
+doc/
+
+# Fichiers de l'IDE Eclipse
+.project
+.classpath
+.settings/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
