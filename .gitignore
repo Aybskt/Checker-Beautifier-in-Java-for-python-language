@@ -1,6 +1,8 @@
 # Fichiers compilés
 *.class
 *.jar
+!cli.jar
+!gui.jar
 *.war
 *.ear
 
@@ -8,7 +10,6 @@
 bin/
 target/
 build/
-doc/
 
 # Fichiers de l'IDE Eclipse
 .project
