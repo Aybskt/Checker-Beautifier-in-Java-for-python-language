@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"m":"ProjetPOO_B5","l":"CliMod"},{"m":"ProjetPOO_B5","l":"FileAnalyser"},{"m":"ProjetPOO_B5","l":"FileExplorer"},{"m":"ProjetPOO_B5","l":"GuiMod"}];updateSearchResults();
