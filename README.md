@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/last-commit/Aybskt/Checker-Beautifier-in-Java-for-python-language?style=for-the-badge&logo=github&color=blue" />
   <img src="https://img.shields.io/github/repo-size/Aybskt/Checker-Beautifier-in-Java-for-python-language?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/languages/top/Aybskt/Checker-Beautifier-in-Java-for-python-language?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/github/license/Aybskt/Checker-Beautifier-in-Java-for-python-language?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/license/Aybskt/Checker-Beautifier-in-Java-for-python-language?style=for-the-badge&color=green&v=1" />
 </div>
 <br>
 
