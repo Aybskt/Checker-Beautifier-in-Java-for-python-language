@@ -65,7 +65,6 @@ L'application offre une double interface (Graphique et Ligne de Commande) pour u
 
 ## 📸 Aperçu de l'application
 
-*(💡 **Conseil :** Remplacez ces images par vos propres captures d'écran !)*
 
 <table>
   <tr>
