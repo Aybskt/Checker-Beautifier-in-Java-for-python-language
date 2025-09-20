@@ -35,7 +35,7 @@
 7.  [📚 Documentation](#-documentation)
 8.  [📜 Licence](#-licence)
 ---
-### ## 🌟 À propos du projet
+## 🌟 À propos du projet
 
 Ce projet est un outil d'analyse statique de code, développé en **Java** dans le cadre d'un projet universitaire de Programmation Orientée Objet. Il a pour but d'aider les développeurs Python à maintenir une haute qualité de code en automatisant la vérification et la correction de plusieurs aspects essentiels :
 * La conformité des en-têtes de fichiers (Shebang, Encodage).
@@ -46,7 +46,7 @@ L'application offre une double interface (Graphique et Ligne de Commande) pour u
 
 ---
 
-### ## ✨ Fonctionnalités
+## ✨ Fonctionnalités
 
 * 🖥️ **Double Interface :** Une interface graphique (GUI) intuitive pour une utilisation visuelle et une interface en ligne de commande (CLI) pour l'automatisation.
 * 📂 **Exploration de Fichiers :** Parcourt récursivement les dossiers pour trouver et analyser tous les fichiers `.py`.
@@ -63,7 +63,7 @@ L'application offre une double interface (Graphique et Ligne de Commande) pour u
 
 ---
 
-### ## 📸 Aperçu de l'application
+## 📸 Aperçu de l'application
 
 *(💡 **Conseil :** Remplacez ces images par vos propres captures d'écran !)*
 
@@ -80,7 +80,7 @@ L'application offre une double interface (Graphique et Ligne de Commande) pour u
 
 ---
 
-### ## 🛠️ Environnement de Développement
+## 🛠️ Environnement de Développement
 
 * **Langage :** Java 17
 * **IDE :** Eclipse IDE for Java Developers
@@ -89,7 +89,7 @@ L'application offre une double interface (Graphique et Ligne de Commande) pour u
 
 ---
 
-### ## 🚀 Démarrage rapide
+## 🚀 Démarrage rapide
 
 Pour lancer l'application, assurez-vous que Java est installé sur votre système.
 
@@ -106,7 +106,7 @@ Pour lancer l'application, assurez-vous que Java est installé sur votre systèm
 
 ---
 
-### ## 💻 Utilisation
+## 💻 Utilisation
 
 #### **Interface Graphique (GUI)**
 
@@ -145,7 +145,7 @@ Pour découvrir les commandes, lancez d'abord le JAR sans argument (ou avec `-h`
 
 ---
 
-### ## 📚 Documentation
+## 📚 Documentation
 
 La documentation technique complète du code source (Javadoc) est disponible en ligne et hébergée via GitHub Pages.
 
@@ -153,8 +153,8 @@ La documentation technique complète du code source (Javadoc) est disponible en 
 
 ---
 
-### ## 📜 Licence
+## 📜 Licence
 
 Ce projet est distribué sous la Licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-Copyright (c) 2025 - Ayoub ABDELLI (Aybskt)
+Copyright (c) 2025 - Ayoub. A (Aybskt)
