@@ -69,8 +69,8 @@ L'application offre une double interface (Graphique et Ligne de Commande) pour u
 
 <table>
   <tr>
-    <td><img src="URL_DE_VOTRE_IMAGE_1.png" alt="Vue principale de l'explorateur de fichiers"></td>
-    <td><img src="URL_DE_VOTRE_IMAGE_2.png" alt="Analyse d'un fichier et résultats"></td>
+    <td><img src="https://raw.githubusercontent.com/Aybskt/Checker-Beautifier-in-Java-for-python-language/main/assets/img1.png" alt="Vue principale de l'explorateur de fichiers"></td>
+    <td><img src="https://raw.githubusercontent.com/Aybskt/Checker-Beautifier-in-Java-for-python-language/main/assets/img2.png" alt="Analyse d'un fichier et résultats"></td>
   </tr>
   <tr>
     <td align="center"><em>Vue principale de l'explorateur de fichiers</em></td>
