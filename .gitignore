@@ -14,7 +14,7 @@ Thumbs.db
 bin/
 build/
 target/
-# doc/
+# docs/
 
 # Fichiers JAR
 # Ignore tous les fichiers .jar par défaut...
