@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Aybskt/Checker-Beautifier-in-Java-for-python-language/main/assets/logo.png" width="120px" />
   <h1 align="center">🐍 Python Code Checker & Beautifier</h1>
   <p align="center">
-    <strong>Une application de bureau puissante, développée en Java, pour analyser, vérifier et améliorer la qualité de votre code Python.</strong>
+    <strong>Un outil de bureau développé en Java permettant d'analyser, de modifier et de gérer des fichiers de code source Python. Il offre à la fois une interface en ligne de commande (CLI) pour l'automatisation et une interface graphique (GUI) pour une utilisation interactive et conviviale.</strong>
     <br />
     <br />
     <a href="https://aybskt.github.io/Checker-Beautifier-in-Java-for-python-language/"><strong>🎓 Consulter la Javadoc</strong></a>
