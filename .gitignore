@@ -1,31 +1,106 @@
+# =========================
 # Fichiers générés par le système d'exploitation
+# =========================
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Icon?
+*.swp
+*.swo
 
+# =========================
 # Fichiers de logs
+# =========================
 *.log
+*.out
+*.err
 
-# Fichiers de configuration de l'IDE (Eclipse)
+# =========================
+# Fichiers de configuration d’IDE
+# =========================
+
+# Eclipse
 .project
 .classpath
 .settings/
 
-# Dossiers de sortie compilés (très importants à ignorer)
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# =========================
+# Build & sortie compilée
+# =========================
 bin/
 build/
 target/
-# docs/
+out/
 
-# Fichiers JAR
-# Ignore tous les fichiers .jar par défaut...
+# =========================
+# Fichiers Java
+# =========================
+*.class
+
+# JARs
 *.jar
-# ...sauf les fichiers JAR exécutables que vous voulez partager.
 !cli.jar
 !gui.jar
 
-# Fichiers d'archive
+# Archives Java EE
 *.war
 *.ear
 
-# Fichiers de préférences utilisateur
-preferences.ser
+# =========================
+# Autres fichiers générés
+# =========================
+*.ser
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Documentation générée
+# =========================
+docs/
+doc/
+javadoc/
+
+# =========================
+# Dépendances (ex. si Maven/Gradle/NPM)
+# =========================
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Gradle
+.gradle/
+build/
+
+# Node (si projet hybride avec frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# OS spécifiques
+# =========================
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
