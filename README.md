@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aybskt/Checker-Beautifier-in-Java-for-python-language/main/doc/resources/python-logo.png" width="120px" />
+  <img src="https://raw.githubusercontent.com/Aybskt/Checker-Beautifier-in-Java-for-python-language/main/assets/logo.png" width="120px" />
   <h1 align="center">🐍 Python Code Checker & Beautifier</h1>
   <p align="center">
     <strong>Une application de bureau puissante, développée en Java, pour analyser, vérifier et améliorer la qualité de votre code Python.</strong>
