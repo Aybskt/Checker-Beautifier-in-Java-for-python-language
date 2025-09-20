@@ -58,6 +58,7 @@ out/
 *.jar
 !cli.jar
 !gui.jar
+!lib/*.jar
 
 # Archives Java EE
 *.war
